@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\Conecta4\bin\Debug\netcoreapp3.1\Conecta4.exe
+C:\Users\david\source\repos\Conecta4\bin\Debug\netcoreapp3.1\Conecta4.deps.json
+C:\Users\david\source\repos\Conecta4\bin\Debug\netcoreapp3.1\Conecta4.runtimeconfig.json
+C:\Users\david\source\repos\Conecta4\bin\Debug\netcoreapp3.1\Conecta4.runtimeconfig.dev.json
+C:\Users\david\source\repos\Conecta4\bin\Debug\netcoreapp3.1\Conecta4.dll
+C:\Users\david\source\repos\Conecta4\bin\Debug\netcoreapp3.1\Conecta4.pdb
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.AssemblyInfo.cs
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.dll
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.pdb
+C:\Users\david\source\repos\Conecta4\obj\Debug\netcoreapp3.1\Conecta4.genruntimeconfig.cache
